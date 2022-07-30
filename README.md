@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CasperGaming22
 - 👀 I’m interested in new games
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning GDScript
 - 💞️ I’m looking to develop a lot of good stuff
 FOLLOW ME! https://gamejolt.com/@Games4Everyone
 
