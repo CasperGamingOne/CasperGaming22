@@ -2,7 +2,6 @@
 - 👀 I’m interested in new games
 - 🌱 I’m currently learning GDScript
 - 💞️ I’m looking to develop a lot of good stuff
-FOLLOW ME! https://gamejolt.com/@Games4Everyone
 
 <!---
 CasperGaming22/CasperGaming22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
